@@ -1,3 +1,7 @@
-# simple-interest-calculator-startup
-
-Bash script to calculate simple interest. This project is the first open-source tool for our micro-finance initiative.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
